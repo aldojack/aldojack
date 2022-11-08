@@ -8,7 +8,7 @@ BSC Mobile & Web Developer, frontend experience with using HTML, CSS and Javascr
 
 * 🌍  I'm based in Glasgow
 * 🖥️  See my portfolio at [Portfolio Page](http://alanjack.me)
-* ✉️  You can contact me at [alan.jack1@outlok.com](mailto:alan.jack1@outlok.com)
+* ✉️  You can contact me at [alan.jack1@outlok.com](mailto:alan.jack1@outlook.com)
 * 🧠  I'm learning MERN Stack
 
 <a href="https://www.twitter.com/mraldojack" target="_blank" rel="noreferrer"><img
