@@ -7,7 +7,7 @@ Software Developer
 BSC Mobile & Web Developer, frontend experience with using HTML, CSS and Javascript and backend experience using c#, asp.net, php. Also hold oracle certificates in database design and database programming.
 
 * 🌍  I'm based in Glasgow
-* 🖥️  See my portfolio at [Portfolio Page](http://alanjack.me)
+* 🖥️  See my blog created for educational project at [Blog Page](http://alanjack.me)
 * ✉️  You can contact me at [alan.jack1@outlok.com](mailto:alan.jack1@outlook.com)
 * 🧠  I'm learning MERN Stack
 
