@@ -4,13 +4,13 @@ Hi 👋 My name is Alan Jack
 Software/Web/Mobile/App Developer
 ------------------
 
-BSC Mobile & Web Developer, frontend experience with using HTML, CSS and Javascript and backend experience using c#, asp.net, php. Also hold oracle certificates in database design and database programming.
+BSC Hons Mobile & Web Developer, frontend experience with using HTML, CSS, Javascript and frameworks like React, vue and Express with backend experience using C#/ASP.net, PHP/Laravel, Java/Spring Boot. Also hold oracle certificates in database design and database programming.
 
 * 🌍  I'm based in Glasgow
-* * 🖥️  My [portfolio](https://www.alan-jack.co.uk/)
-* 🖥️  See my blog created for educational project at [Blog Page](http://alanjack.me)
+* 🧑‍💻  Open to work
+* 🖥️  My [portfolio](https://www.alan-jack.co.uk/)
 * ✉️  You can contact me at [alan.jack1@outlok.com](mailto:alan.jack1@outlook.com)
-* 🧠  I'm currently learning MERN Stack and NextJS
+* 🧠  I'm currently following https://fullstackopen.com/ from Helsinki University
 
 <a href="https://www.twitter.com/mraldojack" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mraldojack?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
