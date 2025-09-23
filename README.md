@@ -4,7 +4,7 @@ Hi 👋 My name is Alan Jack
 Software/Web/Mobile/App Developer
 ------------------
 
-BSC Hons Mobile & Web Developer, frontend experience with using HTML, CSS, Javascript and frameworks like React, vue and Express with backend experience using C#/ASP.net, PHP/Laravel, Java/Spring Boot. Also hold oracle certificates in database design and database programming.
+Software Developer with specalised Frontend experience with using HTML, CSS, Javascript and frameworks like React, Vue and Express with backend experience using C#/ASP.net, PHP/Laravel, Java/Spring Boot. Also hold oracle certificates in database design and database programming.
 
 * 🌍  I'm based in Glasgow
 * 🧑‍💻  Open to work
@@ -44,4 +44,3 @@ src="https://img.shields.io/github/followers/aldojack?logo=github&style=for-the-
 
 <a href="http://www.github.com/aldojack"><img src="https://github-readme-stats.vercel.app/api?username=aldojack&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=f97316&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="aldojack's GitHub stats" /></a>
 
-<a href="http://www.github.com/aldojack"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aldojack&stroke=f97316&background=000000&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a># aldojack
