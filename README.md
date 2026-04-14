@@ -17,7 +17,7 @@ Currently working at Sky UK with 2 years experience building React + TypeScript 
 
 - MunchMate (Full Stack) – Recipe + meal planner app (React/TS + Spring Boot + SQL)
 
-  [Front End README](https://github.com/aldojack/MunchMate-FE) | [Backend End README](https://github.com/aldojack/MunchMate-BE)
+  [Frontend README](https://github.com/aldojack/MunchMate-FE) | [Backend End README](https://github.com/aldojack/MunchMate-BE)
 
 ### Skills
 
